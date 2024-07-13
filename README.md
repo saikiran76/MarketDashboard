@@ -44,7 +44,7 @@
 
 ## Local Setup
 - clone using `git clone <git url>`
-- cd into the folder `StockBoard`
+- cd into the folder `MarketDashboard`
 - install the required dependencies using `npm install`
 - start locally using the command `npm run dev`
 
